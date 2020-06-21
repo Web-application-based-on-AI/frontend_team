@@ -17,14 +17,6 @@ Social media Network
 
 Our Project is a social Network based on AI so we can classify posts then choosing based on the topic which one will be published. 
 
-## Team_Members
-
-1. [Mahmoud_Gamal](https://github.com/mahmoudgamalhafez)
-
-2. [Abdullah_Maghrabi](https://github.com/AbdullaMaghrabi)
-
-3. Asmaa Ali
-
 
 ### Sign_IN 
 

@@ -2,70 +2,75 @@
 
 Social media Network
 ## Table of Contents
-<ul>
-<li>overview</li>
-<li>Team_Members</li>
-<li>Sign_IN</li>
-<li>Sign_UP</li>
-</ul>	
 
-## Overview
+1. [OverView](#overview)
+2. [Team Members](#Team_Members)
+3. [Sign IN](#Sign_IN)
+4. [Sign UP](#Sign_UP)
+5. [Home Page](#Home_Page)
+6. [Profile](#Profile_Page)	
+7. [Edit Information](#Edit_Page)
+8. [Post](#Post_Page)
+9. [Error](#Error_Page)
+
+## OverView
 
 Our Project is a social Network based on AI so we can classify posts then choosing based on the topic which one will be published. 
 
 ## Team_Members
 
-<ul>
-<li>[Mahmoud Gamal](https://github.com/mahmoudgamalhafez)</li>
-<li>[Abdullah Maghrabi](https://github.com/AbdullaMaghrabi)</li>
-<li>Asmaa Ali</li>
-</ul>
+1. [Mahmoud_Gamal](https://github.com/mahmoudgamalhafez)
 
-### Sign_IN Page
+2. [Abdullah_Maghrabi](https://github.com/AbdullaMaghrabi)
+
+3. Asmaa Ali
+
+
+### Sign_IN 
 
 User who already signed up before can sgin in using UserName/Email and Password 
 
-![](Images/Sign_In)
+![](./Images/Sign_In.PNG)
 
-### And coding style tests
+### Sign_UP 
 
-Explain what these tests test and why
+User who visit our site for the first time can sign up by entering his information to data base. 
 
-```
-Give an example
-```
+![](./Images/Sign_Up.PNG)
 
-## Deployment
 
-Add additional notes about how to deploy this on a live system
+## Home_Page
 
-## Built With
+User can Publish his Posts ,comment , like here . 
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+![](./Images/home_page.PNG)
 
-## Contributing
+## Profile_Page
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+User also have a profile Page. 
 
-## Versioning
+![](./Images/Profile.PNG)
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+## Edit_Page
 
-## Authors
+User can edit his information/bio using this page. 
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+![](./Images/Edit.PNG)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+## Post_Page
+
+User can see who commented in a post and who liked here 
+
+![](./Images/post.PNG)
+
+## Error_Page
+
+when classification of posts rejects a post of one kind this page pops .
+
+![](./Images/error.PNG)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
 
